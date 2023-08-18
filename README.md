@@ -14,7 +14,7 @@ By clicking the navigation bar at the top, the webpage will automatically scroll
 
 ![Demo](assets/images/01-html-css-git-homework-demo.png)
 
-Link to deployed application:
+Link to deployed application: https://mnettath.github.io/horiseon-accessibility-webpage/
 
 ## Credits
 
