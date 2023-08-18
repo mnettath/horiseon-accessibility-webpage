@@ -10,11 +10,11 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+By clicking the navigation bar at the top, the webpage will automatically scroll to the corresponding section. All images are screen reader compatible since they contain alt tags. Below is an example of the layout of the page:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+![Demo](assets/images/01-html-css-git-homework-demo.png)
 
-![alt text](assets/images/screenshot.png)
+Link to deployed application:
 
 ## Credits
 
